@@ -1,0 +1,274 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section{
+    background-color: rgb(254, 254, 253);
+    display: flex;
+    font-family:  32px'Dosis', sans-serif;
+    color: rgb(161, 157, 157);
+    gap: 100px;
+    height: 30px;
+    padding: 30px;
+    width: 97%;
+    position: fixed;
+    justify-content: space-between;
+    z-index: 200px;
+}
+.section-1{
+    display: flex;
+    gap: 60px;
+    margin-right: 20px;
+    letter-spacing: 2px;
+}
+.section-2{
+    display: flex;
+    gap: 60px;
+}
+.section-3{
+    display: flex;
+    gap: 9px;
+}
+.season{
+    background-image: url(/pexels-andrea-de-santis-12053376.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.season-1{
+    padding-top: 200px;
+    color: white;
+    font-size: 40px;
+    font-family: 32px'Dosis', sans-serif;
+    font-weight: 100;
+    margin-left: 80px;
+    
+}
+
+.season-2{
+    color: white;
+    font-size: 15px;
+    margin-left: 80px;
+    font-family: 'Dosis', sans-serif;
+    
+    
+}
+.season-3{
+    color: white;
+    margin-left: 80px;
+}
+
+.about{
+    color: white;
+    margin-left: 80px;
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: rgb(253, 172, 20);
+    border-color: rgb(253, 172, 20);
+    font-size: 10px;
+
+}
+.animations{
+    color: white;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font: 700;
+    margin-left: 80px;
+    display: flex;
+}
+
+.container {
+    color: orange;
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+.sector{
+    background-color: rgb(254, 254, 253);
+    width: 100%;
+}
+.Sector-1{
+    color: black;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 15px;
+    font-style: inherit;
+
+
+}
+.hr{
+    width: 5px;
+    text-align: center;
+    color: black;
+}
+.word-1{
+    font-size: 20px;
+    font-style: italic;
+}
+.icon{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.secture-1{
+    display: flex;
+    gap: 50px;
+    margin-left: 70px;
+    padding-top: 100px;
+    color: rgb(58, 57, 57);
+}
+.card-1{
+    font-style: inherit;
+    font-size: 20px;
+    text-align: center;
+}
+.card-2{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.icon-season{
+    display: flex;
+    margin-top: 100px;
+}
+
+.icon-season-1{
+    background-color: rgb(191, 187, 187);
+    width: 25%;
+    height: 350px;
+}
+.icon-season-2{
+    background-color: rgb(236, 231, 231);
+    width: 25%;
+    height: 350px;
+}
+.icon-01{
+    font-size: 80px;
+    text-align: center;
+    padding-top: 80px;
+}
+.client{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.number{
+    text-align: center;
+    font-size: 50px;
+}
+.process{
+    text-align: center;
+    padding-top: 60px;
+}
+.pro{
+    font-size: 20px;
+    font-style: italic;
+}
+.icon-class{
+    display: flex;
+    padding: 20px;
+    font-size: 50px;
+    gap: 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+}
+.icon-class-1{
+    background-color: rgb(55, 53, 53);
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    border-radius: 300px;
+    color: white;
+    margin-left: 80px;
+}
+.one{
+    background-color: orange;
+    color: gray;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-left: 100px;
+}
+.learn-1{
+    color: orange;
+}
+.base{
+    font-style: italic;
+    margin-top: 20px;
+}
+.base-learn{
+    display: flex;
+    text-align: center;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 40px;
+}
+.check{
+    color: orange;
+}
+.icon-class-2{
+    display: flex;
+}
+.icon-001{
+    background-color: rgb(55, 53, 53);
+    width: 40px;
+    height: 40px;
+    color: rgb(213, 201, 201);
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    margin: 12px;
+    margin-top: 20px;
+}
+
+.image-1{
+    width: 700px;
+    height: 500px;
+}
+.seption{
+    display: flex;
+    justify-content: left;
+    gap: 30px;
+    background-color: rgb(224, 220, 220);
+    margin-top: 200px;
+    padding: 20px;
+    padding-top: 100px;
+    
+}
+.list-1{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    color: white;
+    padding: 60px;
+}
+.list{
+    display: flex;
+    color: white;
+    gap: 20px;
+}
+
+.listed{
+    border: solid;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    
+    
+}
